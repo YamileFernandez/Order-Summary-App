@@ -1,11 +1,11 @@
-
 import './styles/App.css';
+import Buttons from './Buttons';
 
 function App() {
   
   return (
     <div className="App">
-      app
+     <Buttons/>
     </div>
   );
 }
